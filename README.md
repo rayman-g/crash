@@ -1,4 +1,4 @@
-# Dockerfile
+# Crash build and run
 
 below instruction explains how to build and run application in docker locally
 
